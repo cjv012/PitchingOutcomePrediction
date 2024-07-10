@@ -21,4 +21,4 @@ from keras import Input, Model
 #from keras.optimizers import Adam, SGD
 from scikeras.wrappers import KerasClassifier
 
-print("Hello World")
+print('Hello World')
